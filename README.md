@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Java, DSA, and Problem Solving**
+* 🌱 Currently learning **Java,C++, DSA, and Problem Solving**
 * 🤖 Interested in **Artificial Intelligence & Chatbot Development**
 * 🌐 Exploring **Web Development (HTML, CSS, Flask)**
 * 🎯 Goal: Become a **strong problem solver & software developer**
