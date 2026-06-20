@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **C++, DSA, and Machine Learning & Data Science **
+* 🌱 Currently learning **C++, DSA, and Machine Learning & Data Science**
 * 🤖 Interested in **Artificial Intelligence & Machine Learning**
 * 🌐 Exploring **Cloud Computing**
 * 🎯 Goal: Become a **strong problem solver & machine learning engineer**
