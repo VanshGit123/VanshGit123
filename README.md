@@ -27,6 +27,7 @@ A data-driven developer focusing on **Data Structures & Algorithms**, **Computer
 ![YOLO](https://img.shields.io/badge/YOLOv8%20%2F%20v11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### ⚙️ Developer Tools & Environments
