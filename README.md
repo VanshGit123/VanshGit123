@@ -47,7 +47,8 @@ Building scalable applications requires optimized memory and runtime complexitie
 
 ## 🔥 Featured Technical Projects
 
-### 🌾 **[Sesame Crop and Weed Object Detection](https://github.com/VanshGit123/Crop-and-Weed-Detection-YOLO)** * **Domain:** Computer Vision, Deep Learning, Edge Computing
+### 🌾 **[Sesame Crop and Weed Object Detection](https://github.com/VanshGit123/Crop-and-Weed-Detection-YOLO)** 
+* **Domain:** Computer Vision, Deep Learning, Edge Computing
 * **Overview:** Engineered an end-to-end vision pipeline to automate precision agricultural spraying by accurately localizing weed targets while safeguarding companion crops.
 * **Key Achievements:**
   * Achieved an overall **mAP50 of 87.7%** and a targeted **Weed Precision of 90.5%** over 50 epochs using a custom-curated 1,300-image dataset.
